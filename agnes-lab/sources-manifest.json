@@ -1,0 +1,66 @@
+{
+  "checked_on": "2026-09-07",
+  "live_api_tested": false,
+  "sources": [
+    {
+      "file": "sources/agnes-20-flash.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-20-flash.md",
+      "sha256": "06b1424348288c1d30c1292dd638a57b11451b7242a47105b2bda2c7134db57b"
+    },
+    {
+      "file": "sources/agnes-25-flash.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-25-flash.md",
+      "sha256": "ac54a8447a1f5854094665aa95722261536abdc9f12a154531a421a95dfd05fc"
+    },
+    {
+      "file": "sources/agnes-25-pro-alpha.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-25-pro-alpha.md",
+      "sha256": "8c50bd9a9fa26bbeeb46ebfad9d21ccde58faa1084a011905df965a3c1649d60"
+    },
+    {
+      "file": "sources/agnes-25-pro-beta.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-25-pro-beta.md",
+      "sha256": "5d5d951ba606afae1b2e028e04e83c5e7eed3aea4bd65b68df6aa9a8e9d70f14"
+    },
+    {
+      "file": "sources/agnes-25-pro.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-25-pro.md",
+      "sha256": "e34b88ca279e3e147696edde19c8e900f9794d7c23fe3602c927041b56fc4a44"
+    },
+    {
+      "file": "sources/agnes-image-20-flash.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-image-20-flash.md",
+      "sha256": "1c3d3a0dcb68835b2bcc451a60a5e94c1e5a3c68f5506adb02edfa7f7026354f"
+    },
+    {
+      "file": "sources/agnes-image-21-flash.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-image-21-flash.md",
+      "sha256": "78c56e5fdb9974bebb54de166a23262066a3cef6e586bed9a153c3d760e0990a"
+    },
+    {
+      "file": "sources/agnes-image-25-flash.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-image-25-flash.md",
+      "sha256": "5c8ebc267a73d255d223ec52e1abd79e1360f35562fceaf7907b6bb2e83e2f09"
+    },
+    {
+      "file": "sources/agnes-video-25-flash.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-video-25-flash.md",
+      "sha256": "d4c410e7afb56a3758e0e780f4ad87f8d8b8303b571f488a62a53dfa37f85b12"
+    },
+    {
+      "file": "sources/agnes-video-25.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-video-25.md",
+      "sha256": "dc83de1a870d0862aefd197ac6b4806060a5bb2d92084d597c608619512fad45"
+    },
+    {
+      "file": "sources/agnes-video-v20.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/agnes-video-v20.md",
+      "sha256": "4ee18025ca54b6dada61f458a8dbf79e2653fb2de0104a8596a040e14cdd23a4"
+    },
+    {
+      "file": "sources/pricing.md",
+      "url": "https://wiki.agnes-ai.com/en/docs/pricing.md",
+      "sha256": "448a26c1c4fb9fcb3a576c2ffafcbacdc8b206e274db8e27fe1d4dcf07eb210c"
+    }
+  ]
+}
