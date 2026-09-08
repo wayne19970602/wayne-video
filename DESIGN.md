@@ -1,4 +1,4 @@
-# DESIGN — daihuo-fanpai 设计与契约
+# DESIGN — wayne-video 设计与契约
 
 > 给**接手/改造本 skill 的 agent**看的。SKILL.md 讲"怎么用",本文讲"为什么这么设计 + 数据契约 + 怎么安全地换血"。改任何一块前先读对应契约。
 

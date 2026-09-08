@@ -1,7 +1,6 @@
-<p align="center"><img src="cover.png" width="760" alt="daihuo-fanpai"></p>
-<p align="center"><a href="README.md">中文</a> · <b>English</b></p>
+﻿<p align="center"><a href="README.md">中文</a> · <b>English</b></p>
 
-# daihuo-fanpai · Viral E-commerce Short-Video Replication Skill
+# wayne-video · Viral E-commerce Short-Video Replication Engine
 
 Reverse-engineer a viral product video → migrate it to *your* product → regenerate shots with Jimeng/Seedance → dub, assemble, score → **deliver a ready-to-edit JianYing (CapCut CN) draft or a subtitled final cut**.
 An **agent-driven** pipeline (built for [Claude Code](https://claude.com/claude-code) and similar agents) where every stage emits a human-reviewable file.
@@ -116,8 +115,8 @@ Wang Zili — in e-commerce since 2012, from the Taobao era through the Douyin e
 - Works with agents like Claude Code daily and turns every hard-won lesson into a reusable skill; this repo grew exactly that way — not designed up front, but forced out one real order at a time
 - More battle notes (paid traffic / live commerce ops, no courses sold): [5t9t.com](https://5t9t.com)
 
-**WeChat** `hornonthebus` (for replication / AI video production topics — say why you're adding); [Issues](https://github.com/wangcanyu/daihuo-fanpai/issues) and PRs welcome
+**WeChat** `hornonthebus` (for replication / AI video production topics — say why you're adding); [Issues](https://github.com/wayne19970602/wayne-video/issues) and PRs welcome
 
 ## License
 
-MIT · Copyright (c) 2026 wangcanyu
+MIT · Copyright (c) 2026 wayne19970602
